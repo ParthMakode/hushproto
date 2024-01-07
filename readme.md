@@ -2,13 +2,10 @@
 
 In today's digital landscape, we've all experienced the frustration of enduring lengthy and monotonous customer support calls. Often, the majority of our time is spent on hold, being transferred from one agent to another, subjected to frustrating waiting periods.
 
-Addressing this challenge, we are proud to introduce our Conversational AI solution Powered by Generative AI, our solution delivers human-like interactions, fostering natural and meaningful exchanges. This AI has been extensively trained to engage in dialogues, promptly addressing inquiries by drawing from the operational expertise of the respective company.
+Addressing this challenge, This is a Conversational AI solution Powered by Generative AI, our solution delivers human-like interactions, fostering natural and meaningful exchanges. This AI has been extensively trained to engage in dialogues, promptly addressing inquiries by drawing from the operational expertise of the respective company.
 
-For this specific illustration, we scraped operational data from publicly available sources of Walmart. We used Few-shot learning method to train our LLM model using this data, ensuring an accurate and contextually relevant AI-driven conversation.
+For this specific illustration, we scraped operational data from publicly available sources of Walmart. I used Few-shot learning method to train our LLM model using this data, ensuring an accurate and contextually relevant AI-driven conversation.
 
-Here is a demo of the application which was submitted to in the Sparkathon by Walmart hackathon.
-
-https://github.com/pankaj-00/convAI/assets/96481913/d9b16d93-67fa-48de-b0ac-3aea13dc0f60
 
 
 ## Index
